@@ -1,0 +1,3 @@
+name: pulumi-linode-dns-example
+runtime: python
+description: An example Python Pulumi/Linode program
